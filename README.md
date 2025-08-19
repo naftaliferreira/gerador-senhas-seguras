@@ -94,6 +94,10 @@ gerador-senhas-seguras/
 3. Clique em "Gerar Senha"
 4. Use "Copiar" para salvar a senha gerada
 
+### Execução do projeto
+```
+public/index.html
+```
 ### Execução dos Testes
 
 ```
