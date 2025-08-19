@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "vite --host",
     "test": "jest --json --outputFile=tests/test-results.json"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^30.0.5"
+    "jest": "^30.0.5",
+    "vite": "^7.1.3"
   }
 }
